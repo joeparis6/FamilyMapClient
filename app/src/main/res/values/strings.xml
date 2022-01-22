@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="Register">"Register"</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="register_failed">Register failed</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="ServerHost">Server Host</string>
+    <string name="ServerPort">Server Port</string>
+    <string name="UserName">User Name</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">m</string>
+    <string name="Female">f</string>
+    <string name="SignInButton">"SIGN IN"</string>
+    <string name="RegisterButton">"REGISTER"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapFragmentMessage">Family Map</string>
+    <string name="MenuSettings">Settings</string>
+    <string name="MenuSearch">Search</string>
+    <string name="LifeStory">Life Story Lines</string>
+    <string name="LifeStoryDescription">Show Life Story Lines</string>
+    <string name="FamilyTree">Family Tree Lines</string>
+    <string name="FamilyTreeDescription">Show Family Tree Lines</string>
+    <string name="SpouseLines">Spouse Lines</string>
+    <string name="SpouseLinesDescription"> Show Spouse Lines</string>
+    <string name="FatherSide">Father\'s Side</string>
+    <string name="FatherSideDescription">Filter By Father\'s Side of Family</string>
+    <string name="MotherSide">Mother\'s Side</string>
+    <string name="MotherSideDescription">Filter By Mother\'s Side of Family</string>
+    <string name="MaleEvents">Male Events</string>
+    <string name="MaleEventsDescription">Filter Events Based On Gender</string>
+    <string name="FemaleEvents">Female Events</string>
+    <string name="FemaleEventsDescription">Filter Events Based On Gender</string>
+    <string name="Logout">Logout</string>
+    <string name="LogoutDescription">Return To Login Screen</string>
+    <string name="Family">Family</string>
+    <string name="LifeEvents">Life Events</string>
+    <string name="MaleAbrev">m</string>
+    <string name="FemaleAbrev">f</string>
+
+
+</resources>
